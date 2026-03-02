@@ -57,11 +57,14 @@ Built through continuous experimentation, exploitation, and system analysis.
 
 ## 📚 Completed Rooms
 
-| Room | Difficulty | THM Link | 📘 Writeup |
-|------|------------|----------|------------|
-| Abusing Windows Internals | 🟡 Medium | [Open Room](https://tryhackme.com/room/abusingwindowsinternals) | [📘 Writeup](rooms/abusing_windows_internals.md) |
-| Active Directory Basics | 🟢 Easy | [Open Room](https://tryhackme.com/room/winadbascis) | [📘 Writeup](rooms/active_directory_basics.md) |
-| Blue | 🔴 Hard | [Open Room](https://tryhackme.com/room/blue) | [📘 Writeup](rooms/blue.md) |
+| Room | Link | Solutions |
+|------|------|------------|
+| 0day | https://tryhackme.com/room/0day | [View](rooms/0day.txt) |
+| 0x41haz | https://tryhackme.com/room/0x41haz | [View](rooms/0x41haz.txt) |
+| 25 Days of Cyber Security | https://tryhackme.com/room/learncyberin25days | [View](rooms/25_days_of_cyber_security.txt) |
+| A Bucket of Phish | https://tryhackme.com/room/hfb1abucketofphish | [View](rooms/a_bucket_of_phish.txt) |
+| Abusing Windows Internals | https://tryhackme.com/room/abusingwindowsinternals | [View](rooms/abusing_windows_internals.txt) |
+| Active Directory Basics | https://tryhackme.com/room/winadbasics | [View](rooms/active_directory_basics.txt) |
 
 ---
 
