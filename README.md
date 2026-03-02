@@ -68,23 +68,4 @@ Built through continuous experimentation, exploitation, and system analysis.
 
 ---
 
-## 🎯 Learning Focus
-
-- Active Directory Exploitation  
-- Enumeration & SMB Attacks  
-- Privilege Escalation  
-- Post Exploitation  
-
----
-
-## 📌 Repository Structure
-
-Each room includes:
-- 🔎 Enumeration steps  
-- 💥 Exploitation process  
-- 🛠 Tools used  
-- 📖 Key takeaways  
-
----
-
 ⭐ More rooms coming soon.
