@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=26&center=true&vCenter=true&width=900&lines=🔴+Red+Team" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=26&center=true&vCenter=true&width=900&lines=🔴+Red+Teaming" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=26&center=true&vCenter=true&width=900&lines=🔵+Blue+Team" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=26&center=true&vCenter=true&width=900&lines=🔵+Blue+Teaming" />
 </p>
 
 <p align="center">
