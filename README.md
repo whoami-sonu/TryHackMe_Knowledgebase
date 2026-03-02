@@ -1,29 +1,57 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=800&lines=TryHackMe+Knowledgebase;Cybersecurity+Learning+Journey;Active+Directory+%7C+Privilege+Escalation+%7C+Enumeration" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=000000&size=32&center=true&vCenter=true&width=900&lines=TryHackMe+Knowledgebase" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-Labs-red?style=for-the-badge&logo=tryhackme" />
-  <img src="https://img.shields.io/badge/Focus-Active%20Directory-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Skill-Privilege%20Escalation-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Level-Intermediate-green?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=26&center=true&vCenter=true&width=900&lines=🔴+Red+Team" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=26&center=true&vCenter=true&width=900&lines=🔵+Blue+Team" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF7F&size=22&center=true&vCenter=true&width=900&lines=🟢+Active+Directory" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=22&center=true&vCenter=true&width=900&lines=🟠+Privilege+Escalation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=22&center=true&vCenter=true&width=900&lines=🟡+Enumeration" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00CED1&size=22&center=true&vCenter=true&width=900&lines=🔷+Post+Exploitation" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TRYHACKME-111111?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/LABS-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-555555?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/🔴_Red_Team-FF0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔵_Blue_Team-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛡_Active_Directory-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡_Privilege_Escalation-FFA500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💀_Post_Exploitation-8A2BE2?style=for-the-badge" />
+</p>
 ---
 
-# 🧠 TryHackMe Knowledgebase
+#  TryHackMe Knowledgebase
 
-My personal TryHackMe learning notes and cybersecurity lab journal.  
-Documenting my journey through hands-on labs and practical exploitation.
+A practical cybersecurity lab journal showcasing hands-on experience in offensive and defensive security.
+Built through continuous experimentation, exploitation, and system analysis.
 
 ---
 
 ## 📊 Progress
 
-- ✅ Total Rooms Completed: 3  
-- 🟢 Easy: 1  
-- 🟡 Medium: 1  
-- 🔴 Hard: 1  
+- ✅ Total Rooms Completed: 750  
+- 🟢 Easy: 200  
+- 🟡 Medium: 250   
+- 🔴 Hard: 200  
 
 ---
 
