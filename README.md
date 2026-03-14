@@ -84,3 +84,18 @@ Built through continuous experimentation, exploitation, and system analysis.
 ---
 
 ⭐ More rooms coming soon.
+
+
+# 👨‍💻 Author
+
+**Sonu Kumar**  
+Cybersecurity Student  
+Centurion University of Technology and Management  
+
+🔗 Linkedin  
+https://www.linkedin.com/in/sonu-kumar-ab7119377/
+
+🔗 TryHackMe  
+https://tryhackme.com/p/wh0.4m.1
+
+---
